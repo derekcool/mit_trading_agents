@@ -1,0 +1,3 @@
+- TradingAgentsGraph: propagate("NVDA", "2024-05-10")
+    - init_agent_state
+    - setup graph -> StateGraph (langgraph.graph)
